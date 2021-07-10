@@ -80,14 +80,14 @@ using Vagrant & Oracle Virtual Box
    ##### C:\hadoop-lw-2021V1-main>vagrant ssh
 
    ##### vagrant@master:~$ jps
-	11538 Jps
-	9716 DataNode
-	9942 SecondaryNameNode
-	10520 Master
-	9528 NameNode
-	10107 ResourceManager
-	10446 NodeManager
-	10750 Worker
+		11538 Jps
+		9716 DataNode
+		9942 SecondaryNameNode
+		10520 Master
+		9528 NameNode
+		10107 ResourceManager
+		10446 NodeManager
+		10750 Worker
 
 
 ##### ==========================================================================
