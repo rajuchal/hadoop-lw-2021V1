@@ -57,10 +57,10 @@ using Vagrant & Oracle Virtual Box
 
 1. Download the script file in Windows
 
-#####    https://github.com/rajuchal/hadoop-lw-2021V1/archive/refs/heads/main.zip
+   #####    https://github.com/rajuchal/hadoop-lw-2021V1/archive/refs/heads/main.zip
 
 2. _"hadoop-lw-2021V1-main.zip"_ file will downloaded , Unzip the file "hadoop-lw-2021V1-main.zip"
-######  Right click on "hadoop-lw-2021V1-main.zip" -->Select "extract here"
+   ######  Right click on "hadoop-lw-2021V1-main.zip" -->Select "extract here"
 
 3. Copy the extracted root folder "hadoop-lw-2021V1-main" into C-drive
 
@@ -70,16 +70,16 @@ using Vagrant & Oracle Virtual Box
 
 6. Run "setup.cmd"
 
-##### C:\hadoop-lw-2021V1-main> setup.cmd
+   ##### C:\hadoop-lw-2021V1-main> setup.cmd
 
-##### ------------- Wait till you get back the Command Prompt
-##### ------------- Depending on the bandwidh total installation may take 45 mins to 1 hr time
+   ##### ------------- Wait till you get back the Command Prompt
+   ##### ------------- Depending on the bandwidh total installation may take 45 mins to 1 hr time
 
 6. After getting back the Command Prompt type "vagrant ssh" to login to Linux Box
 
-##### C:\hadoop-lw-2021V1-main>vagrant ssh
+   ##### C:\hadoop-lw-2021V1-main>vagrant ssh
 
-##### vagrant@master:~$ jps
+   ##### vagrant@master:~$ jps
 	11538 Jps
 	9716 DataNode
 	9942 SecondaryNameNode
