@@ -91,11 +91,11 @@
 
 
 ##### ==========================================================================
-##### USE SmarTTY/MobaXTerm/ WinSCP to Connect with the Linux Node fron Windows
+##### USE SmarTTY/MobaXTerm/ WinSCP to Connect with the Linux Node from Windows
 
 ##### ===========================================================================
 
-#### For details installation & setup , check the "Hadoop-light-weight-env-guide.pdf" file.
+#### For details installation & setup , check the pdf file shared in the extracted folder.
 
 ##### =============================================================================
 
