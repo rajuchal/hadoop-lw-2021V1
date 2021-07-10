@@ -6,8 +6,8 @@
 
 #### Single Node _Hadoop/Spark/HBase/Kafka/Cassandra/MongoDB_ Cluster on Windows using virtualization
 
-Automation Script for creating single node _hadoop/spark/kafka/cassanda/mongodb_ cluster on Windows 
-using Vagrant & Oracle Virtual Box 
+Automation Script for creating single node _hadoop/spark/kafka/cassanda/mongodb_ cluster 
+on Windows using Vagrant & Oracle Virtual Box 
 
 #### Note :- To run this script, "Virtualization" property should be enabled for the Desktop/Laptop with Admin right
 ##### ==============================================================================
