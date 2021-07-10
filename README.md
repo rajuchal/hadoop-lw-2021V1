@@ -1,6 +1,7 @@
 ### Automated Setup & Installation Guide for Hadoop Single Node Cluster Environment
 ### using light-weight script with Spark/Kafka/Cassandra/MongoDB
 #### (Pseudo Distributed mode)
+#### Version- 2021V1
 ##### ==============================================================================
 
 #### Single Node _Hadoop/Spark/HBase/Kafka/Cassandra/MongoDB_ Cluster on Windows using virtualization
@@ -56,26 +57,27 @@ using Vagrant & Oracle Virtual Box
 
 1. Download the script file in Windows
 
-#####    https://github.com/rajuchal/hadoop-lw-2020V2/archive/master.zip
+#####    https://github.com/rajuchal/hadoop-lw-2021V1/archive/refs/heads/main.zip
 
-2. _"hadoop-lw-2020V2-master.zip"_ file will downloaded , Unzip the file "hadoop-lw-2020V2-master.zip"
+2. _"hadoop-lw-2021V1-main.zip"_ file will downloaded , Unzip the file "hadoop-lw-2021V1-main.zip"
+######  Right click on "hadoop-lw-2021V1-main.zip" -->Select "extract here"
 
-3. Copy the extracted root folder "hadoop-lw-2020V2-master" into C-drive
+3. Copy the extracted root folder "hadoop-lw-2021V1-main" into C-drive
 
 4. Open the Windows Command Prompt as "Administrator"
 
-5. Change the directory to the extracted folder - "hadoop-lw-2020V2-master" in the Command Prompt
+5. Change the directory to the extracted folder - "hadoop-lw-2021V1-main" in the Command Prompt
 
-6. Run “setup.cmd”
+6. Run "setup.cmd"
 
-##### C:\hadoop-lw-2020V2-master> setup.cmd
+##### C:\hadoop-lw-2021V1-main> setup.cmd
 
 ##### ------------- Wait till you get back the Command Prompt
 ##### ------------- Depending on the bandwidh total installation may take 45 mins to 1 hr time
 
 6. After getting back the Command Prompt type "vagrant ssh" to login to Linux Box
 
-##### C:\hadoop-lw-2020V2-master>vagrant ssh
+##### C:\hadoop-lw-2021V1-main>vagrant ssh
 
 ##### vagrant@master:~$ jps
 	11538 Jps
